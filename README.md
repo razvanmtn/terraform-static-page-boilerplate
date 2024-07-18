@@ -1,4 +1,4 @@
-# Static Website Terraform Boilerplate
+# Terraform Static Page Boilerplate
 
 - Deploy static website using Terraform, AWS S3, AWS Cloudfront
 
